@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="LABEL",~ Spain TV ~
 http://www.lengua.com/anthems/Spain.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/a/a1/DisneyChannel2017LA.png/revision/latest?cb=20170610233502&path-prefix=es" group-title="SPAIN",Disney Channel Spain
+https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK.jpg" group-title="SPAIN",7 TV Murcia
 http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/playlist.m3u8
 
